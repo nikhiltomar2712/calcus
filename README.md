@@ -14,7 +14,7 @@ This project is a simple calculator implemented in Python. It provides a command
 To set up the project, clone the repository and install the required dependencies:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/nikhiltomar2712/calcus.git
 cd simple-calculator
 pip install -r requirements.txt
 ```
